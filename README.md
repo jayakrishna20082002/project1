@@ -26,15 +26,6 @@ This is a health releated web based app in India
 
 ## Screenshots
 
-![Screenshot (16)](https://user-images.githubusercontent.com/119433892/204863250-c4732cdb-b334-4499-975a-0170a47f3000.png)
-![Screenshot (17)](https://user-images.githubusercontent.com/119433892/204863272-018c3a49-d197-485f-b0b3-b4c11cccdd93.png)
-![Screenshot (18)](https://user-images.githubusercontent.com/119433892/204863285-80d780fe-8e75-440f-8206-01749d3edc4d.png)
-![Screenshot (13)](https://user-images.githubusercontent.com/119433892/204863301-586fa637-7df8-446d-bd99-4a797ddaec25.png)
-![Screenshot (14)](https://user-images.githubusercontent.com/119433892/204863347-8c7bf71c-6aaa-4a8d-aa6f-f38efaa79cf2.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/119433892/204863389-dbaa7923-24f0-4e01-98e3-d13333e148ec.png)
-
-  
-
 ### About Us -
 
 
