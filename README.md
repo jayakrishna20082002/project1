@@ -11,7 +11,7 @@ This is a health releated web based app in India
 ## Azure technologies used for Project
 
 - Health bot
-- Applications of Static web
+- Static web Apps
 
 ## Features and Functionalities 😃
 
