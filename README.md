@@ -26,7 +26,10 @@ This is a health releated web based app in India
 - The Health bot also helps the users to solve their queries
 - This site allows us to develop the business by user feedbacks
 
-## Screenshots
+# Screenshots 
+
+## Static Web Apps 
+
 
 ### About Us -
 
