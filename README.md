@@ -4,8 +4,10 @@ This is a health releated web based app in India
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
+**Microsoft Azure Static Web App Link** -
 
 **Project Link** -https://green-rock-0895dc300.2.azurestaticapps.net/
+
 **project demo video link** -
 
 ## Azure technologies used for Project
