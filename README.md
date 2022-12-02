@@ -15,7 +15,7 @@ This is a health releated web based app in India
 - Azure Health bot
 - Static web Apps
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Can interact with User Interface which is Graphical
 - Can get a good response from User Interface
