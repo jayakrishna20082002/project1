@@ -8,7 +8,7 @@ This is a health releated web based app in India
 
 **Project Link** -https://green-rock-0895dc300.2.azurestaticapps.net/
 
-**project demo video link** -
+**project demo video link** - https://youtu.be/ayakZJ-pcrM
 
 ## Azure technologies used for Project
 
