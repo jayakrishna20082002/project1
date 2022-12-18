@@ -1,10 +1,8 @@
-# GLORY LUXE
-
-This is a health releated web based app in India
+# SMBarber
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-**Microsoft Azure Static Web App Link** - 
+**Microsoft Azure Static Web App Link** - https://victorious-smoke-0c1099700.2.azurestaticapps.net
 
 **Project Link** - 
 
