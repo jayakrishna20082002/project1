@@ -6,7 +6,7 @@
 
 **Project Link** - https://jayakrishna20082002.github.io/project1/
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/Xegl5QLa0tU
 
 ## Azure technologies used for Project
 
