@@ -4,7 +4,7 @@
 
 **Microsoft Azure Static Web App Link** - https://victorious-smoke-0c1099700.2.azurestaticapps.net
 
-**Project Link** - 
+**Project Link** - https://jayakrishna20082002.github.io/project1/
 
 **project demo video link** - 
 
@@ -19,16 +19,14 @@
 - Can get a good response from User Interface
 - Has many visual and innovative effects.
 - Has a visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Health Bot, Menu, health topics and health related information etc.
-- Users can get health related information
+- Has collection of many web pages including Home, About Us, Contact, Help etc.
 - The Health bot also helps the users to solve their queries
 - This site allows us to develop the business by user feedbacks
 
 # Screenshots 
 
 ## Static Web Apps 
-
-![GitHub - Google Chrome 02-12-2022 10_15_42](https://user-images.githubusercontent.com/119433892/205216830-8cca7adf-bc80-4019-879e-7b24fa3e519a.png)
+![My Dashboard - Microsoft Azure - Google Chrome 18-12-2022 13_13_21](https://user-images.githubusercontent.com/119433892/208287188-34db4eb9-fe09-4be3-b36f-9456f6e093e9.png)
 
 ## Health Bot
 
@@ -37,22 +35,20 @@
 ### About Us -
 
 
-![Screenshot (19)](https://user-images.githubusercontent.com/119433892/204864790-a7666f92-e76c-46fe-b8df-384240649ee9.png)
+![My Dashboard - Microsoft Azure - Google Chrome 18-12-2022 13_18_11](https://user-images.githubusercontent.com/119433892/208287307-721b0454-f018-4e9f-941f-ce31fc1a2f55.png)
 
+![My Dashboard - Microsoft Azure - Google Chrome 18-12-2022 13_18_25](https://user-images.githubusercontent.com/119433892/208287314-16d03a02-753a-4bd1-826f-8e30dbbee619.png)
 
-### Services -
-
-![Screenshot (20)](https://user-images.githubusercontent.com/119433892/204864892-dbee13e1-2a36-4a9b-a9ae-362529130611.png)
+![My Dashboard - Microsoft Azure - Google Chrome 18-12-2022 13_18_36](https://user-images.githubusercontent.com/119433892/208287340-78c3746e-3005-4136-84c9-cf6cd7dd1ab0.png)
 
 
 ### Contact us -
 
-![Screenshot (21)](https://user-images.githubusercontent.com/119433892/204864944-0815aa87-ce76-4c35-a3d3-679d86931652.png)
-
+![My Dashboard - Microsoft Azure - Google Chrome 18-12-2022 13_18_52](https://user-images.githubusercontent.com/119433892/208287327-bf47ab77-4940-40b2-b414-fb4ee7e565b6.png)
 
 ### health bot
 
-![Screenshot (22)](https://user-images.githubusercontent.com/119433892/204864981-efb0ccd4-e612-4f76-b07b-fd842732388e.png)
+![My Dashboard - Microsoft Azure - Google Chrome 18-12-2022 13_19_09](https://user-images.githubusercontent.com/119433892/208287369-b5135cbf-8752-48e8-a209-aa3a3ce336f0.png)
 
 
 
